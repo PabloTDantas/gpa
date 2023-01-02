@@ -1,0 +1,39 @@
+.box{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    background-color: red;
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    box-shadow: 3px 3px 2px  greenyellow;
+}
+button:hover{
+    background-color: rgb(24, 8, 165);
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    box-shadow: 3px 3px 2px  greenyellow;
+}
+button a{
+    text-decoration: none;
+    outline: none;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+
+}
+button a:hover{
+    text-decoration: none;
+    outline: none;
+    border: none;
+    color: rgb(240, 17, 17);
+    font-weight: bold;
+    font-size: 24px;
+
+}
